@@ -1,0 +1,8 @@
+---
+name: HWork 8.4
+hosts: all
+roles: 
+   - elastic
+   - kibana-role
+   - filebeat-role 
+
